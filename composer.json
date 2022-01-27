@@ -1,0 +1,9 @@
+{
+    "name": "dell/crud_php",
+    "autoload": {
+        "psr-4": {
+            "Dell\\CrudPhp\\": "src/"
+        }
+    },
+    "require": {}
+}
